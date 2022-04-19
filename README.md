@@ -2,7 +2,7 @@
 
 Hello Microverse Projeect
 
-The first Microverse project to create a "Hello World" repository.
+Microverse project to create a "Hello World" repository.
 
 Built With
 
