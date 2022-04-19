@@ -1,24 +1,18 @@
 
 
-Hello Microverse Projeect
+Hello Microverse Project
 
 Microverse project to create a "Hello World" repository.
 
 Built With
 
-html,css
-Git,Github,Vs Studio Code,linters
-
-Getting Started
-
-Install git and vs studio code locally on your computer,configure git,create folder on vs studio code,clone new repository from github to the vs studio code,add files on the cloned repository
+html,css,Git,Github,Vs Studio Code and linters
 
  Authors
+👤 Tshepo Makama
 
-👤 Tshepo45
-
-GitHub: @Tshepo45
-LinkedIn: Tshepo45
+GitHub:https://github.com/Tshepo45
+Linkedln:Linkedln
 
 
 🤝 Contributing
